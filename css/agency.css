@@ -576,10 +576,10 @@ html {
     margin-bottom: 100px;
   }
   .timeline > li .timeline-panel {
-    float: left;
+    float: right;
     width: 41%;
     padding: 0 20px 20px 30px;
-    text-align: right;
+    text-align: left;
   }
   .timeline > li .timeline-image {
     left: 50%;
@@ -626,7 +626,7 @@ html {
     min-height: 170px;
   }
   .timeline > li .timeline-panel {
-    padding: 0 20px 20px 100px;
+    padding: 0 100px 20px 20px;
   }
   .timeline > li .timeline-image {
     width: 170px;
